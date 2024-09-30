@@ -22,7 +22,8 @@ This project will share the automation scripts related to the EMSD GWIN project,
 ## About GatewayMQTT
 Each RAKwireless Gateway comes with a built-in MQTT server. After a simple configuration, users can forward data from all sensors connected to the Gateway via MQTT to other devices, databases, or services.
 
-GatewayMQTT is a project that provides sample code for RAKwireless users, demonstrating how to retrieve MQTT data from the RAK Gateway WisGate OS2.
+GatewayMQTT is a project that provides sample code for RAKwireless users, demonstrating how to retrieve MQTT data from the RAK Gateway WisGate OS2. 
+The sample source will create a .CSV file to record all uplink and downlink data received by MQTT with a timestamp.
 
 ## Before GatewayMQTT
 Before using the script, login to the Gateway
