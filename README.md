@@ -35,4 +35,4 @@ Before using the script, login to the Gateway
 2) Ensure the computer is still connected to the Gateway.
 3) Your computer already installed Python
 4) Extra module for pip install, please add below: pip install paho-mqtt pandas
-5) Change the code parameters to ensure those parameters are good for your envionemnt. 
+5) Open MQTTtester.py and change the code parameters to ensure those parameters are good for your environment and Run the code. (Enjoy)
